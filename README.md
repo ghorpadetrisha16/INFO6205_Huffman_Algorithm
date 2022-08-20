@@ -11,3 +11,9 @@ Compile WASM module using cmd: zig build -Drelease-small
 execute the command from src/zig path
 
 To run server, execute command: yarn dev
+
+Commands Used:
+npm init
+npm install
+npm install --global yarn
+yarn dev
