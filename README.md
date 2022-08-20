@@ -13,7 +13,7 @@ execute the command from src/zig path
 To run server, execute command: yarn dev
 
 Commands Used:
-npm init
-npm install
-npm install --global yarn
+npm init,
+npm install,
+npm install --global yarn,
 yarn dev
