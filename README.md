@@ -1,1 +1,1 @@
-# INFO6205_Huffman_Algorithm
+# Final Project: INFO6205_Huffman_Algorithm
